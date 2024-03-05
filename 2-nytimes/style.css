@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 24px 14px;
+}
+
+.photo {
+    height: 50%;
+    width: 100%;
+}
+
+figcaption {
+    padding-top: 5px;
+    text-align: right;
+    color: gray;
+}
+
+.info {
+    font-size: large;
+}
+
+.description {
+    color: gray;
+    padding: 10px 0;
+}
+h1 {
+    font-weight: 100px;
+}
+
+.read-time {
+    color: gray;
+}
+
+
+

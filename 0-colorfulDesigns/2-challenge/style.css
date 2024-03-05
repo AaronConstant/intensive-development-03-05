@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(43, 37, 37);
+}
+
+.red-circle {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    top: 20vh;
+    left: 4vh;
+}
+
+.seafoam-circle {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(45, 167, 183);
+    border-radius: 50%;
+    position: relative;
+    top: 20vh;
+    left: 17vh;
+    bottom: 10vh;
+}
+
+.orange-circle {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(214, 158, 37);
+    border-radius: 50%;
+    position: relative;
+    top: 20vh;
+    left: 31vh;
+}
+
+.perrywinkle-circle {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(83, 152, 232);
+    border-radius: 50%;
+    position: relative;
+    top: 20vh;
+    left: 1vh;
+}
+
+.purple-circle {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(141, 48, 162);
+    border-radius: 50%;
+    position: relative;
+    top: 20vh;
+    left: 15vh;
+}
+
+.green-circle {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(41, 142, 56);
+    border-radius: 50%;
+    position: relative;
+    top: 20vh;
+    left: 30vh;
+}
+
