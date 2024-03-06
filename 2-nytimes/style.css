@@ -27,11 +27,13 @@ figcaption {
     padding: 10px 0;
 }
 h1 {
-    font-weight: 100px;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .read-time {
     color: gray;
+    font-size: small;
 }
 
 
